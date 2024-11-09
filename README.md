@@ -5,4 +5,3 @@ Web developer & SEO
 ✉️  You can contact me at [aitoruranga (at) gmail.com](mailto:aitoruranga (at) gmail.com)
 🚀  I'm currently working on Nazaret
 🤝  I'm open to collaborating on international projects### Skills
-CGitJavaJavaScriptKotlinPHPGNU BashVS CodeVimHTML5ReactVueCSS3BootstrapMySQLGoogle CloudWordpressAmazon Web ServicesDigital OceanDockerLinux
