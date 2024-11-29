@@ -8,7 +8,7 @@ Web developer & SEO
 
 ✉️  You can contact me at [aitoruranga (at) gmail.com](mailto:aitoruranga (at) gmail.com)
 
-🚀  I'm currently working on [Nazaret](https://nazaret.eus)
+🚀  I'm currently working in [Nazaret](https://nazaret.eus)
 
 
 🤝  I'm open to collaborating on international projects### Skills
