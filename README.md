@@ -6,9 +6,7 @@ Web developer & SEO
 
 🖥️  See my portfolio at [my web](https://uranga.eus)
 
-✉️  You can contact me at [aitoruranga (at) gmail.com]
-
 🚀  I'm currently working in [Nazaret](https://nazaret.eus)
 
 
-🤝  I'm open to collaborating on international projects### Skills
+🤝  I'm open to collaborating on international projects
